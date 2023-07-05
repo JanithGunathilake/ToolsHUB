@@ -17,5 +17,8 @@ Tools Hub is a newly established online hardware company that needs a solution t
 This integrated web application controls both system processes and customer interactions with the store. The system website administrators can effectively administer the platform's overall operations using the "Tools Hub" web application, which is an online platform. The program will allow users to easily complete their desired tasks in a user-friendly setting for both customers and administrators. Initially, the business purchases products from suppliers and stores them in inventory. The products are then made available for purchase on the system. Customers can buy products online and make payment via online payment. The orders are then assigned to the delivery personnel, who deliver the purchased items to the customer
 #### Technologies used - MERN stack,VS code(IDE)
 
+![project](https://github.com/RanushSanjula/ITP_Project-Online_Hardware_Management_System/assets/123716918/108e98ce-c0ba-41a4-a52f-4000e425ba0b)
+
+
 Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
 
