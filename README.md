@@ -2,7 +2,7 @@
 
 ### Group Leader - IT21378652 - Sanjula K.A.R(RanushSanjula)
 ### Member 2 - IT21173790 - Sooriyaarachchi M.D.A(malindu-MD)
-### Member 3 - IT21207136 - Mendis T.S.P (IT21207136)
+### Member 3 - IT21207136 - Mendis T.S.P(IT21207136)
 ### Member 4 - IT21179358 - Silva G.S.T.(SansalaSilva)
 ### Member 5 - IT21327094 - Somarathne D.K. (dinandi-kawya)
 ### Member 6 - IT21347894 - Premathilake M.N.(milni-premathilake)
